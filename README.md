@@ -1,4 +1,4 @@
-![a building](https://github.com/PseudoDevs/PseudoDevs/blob/master/Untitled-1.png)
+![Hey there, I'm Joshua. Front End Developer, Cyber Security, UI/UX Designer(https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 [![Instagram Badge](https://img.shields.io/badge/-IamPseudoX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/IamPseudoX/)](https://instagram.com/IamPseudoX)
 [![Youtube Badge](https://img.shields.io/badge/-IamPseudoX-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/exphacker)](https://www.youtube.com/user/exphacker)
@@ -20,6 +20,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![PseudoDev's github stats](https://github-readme-stats.vercel.app/api?username=PseudoDevs&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoDevs&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PseudoDevs)
