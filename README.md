@@ -1,5 +1,3 @@
-# PseudoDev
-
 ![a building](https://github.com/PseudoDevs/PseudoDevs/blob/master/Untitled-1.png)
 
 [![Instagram Badge](https://img.shields.io/badge/-IamPseudoX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/IamPseudoX/)](https://instagram.com/IamPseudoX)
