@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-IamPseudoX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/IamPseudoX/)](https://instagram.com/IamPseudoX)
 [![Youtube Badge](https://img.shields.io/badge/-IamPseudoX-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/exphacker)](https://www.youtube.com/user/exphacker)
-[![Gmail Badge](https://img.shields.io/badge/-pseudogmaing.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pseudogaming.official@gmail.com)](mailto:pseudogaming.official@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pseudogaming.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pseudogaming.official@gmail.com)](mailto:pseudogaming.official@gmail.com)
 
 ## ⚡ Technologies
 
