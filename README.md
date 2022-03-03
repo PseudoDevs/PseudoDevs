@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/IamPseudoX"><img src="https://api.daily.dev/devcards/145d864f08164f94a0a2086840b2b50f.png?r=j0u" width="400" alt="John Lester Legaspi's Dev Card"/></a>
 
 [![Instagram Badge](https://img.shields.io/badge/-IamPseudoX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/IamPseudoX/)](https://instagram.com/IamPseudoX)
 [![Youtube Badge](https://img.shields.io/badge/-IamPseudoX-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/exphacker)](https://www.youtube.com/user/exphacker)
