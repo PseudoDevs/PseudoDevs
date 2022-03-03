@@ -1,4 +1,4 @@
-name: John Lester Legaspi
+name: DevCard
 
 on:
   workflow_dispatch:
