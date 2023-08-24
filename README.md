@@ -1,4 +1,4 @@
-<h6 align="left">👋 Hey there! I'm JohnDev 👨‍💻<br><br>Passionate about turning ideas into reality through code and creativity. I thrive on challenges and enjoy delving into the intricate details of problem-solving. With a background in [Your Background], I bring a unique perspective to every project I work on.<br><br>🚀 What I Do:<br><br>Full-stack web development 🌐: Crafting immersive, user-centric experiences with a blend of front-end finesse and back-end wizardry.<br>Problem Solver 🧩: Tackling complex issues head-on and collaborating with teams to devise elegant solutions.</h6>
+<h6 align="left">👋 Hey there! I'm JohnDev 👨‍💻<br><br>Passionate about turning ideas into reality through code and creativity. I thrive on challenges and enjoy delving into the intricate details of problem-solving. I bring a unique perspective to every project I work on.<br><br>🚀 What I Do:<br><br>Full-stack web development 🌐: Crafting immersive, user-centric experiences with a blend of front-end finesse and back-end wizardry.<br>Problem Solver 🧩: Tackling complex issues head-on and collaborating with teams to devise elegant solutions.</h6>
 
 ###
 
