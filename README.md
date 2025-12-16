@@ -110,8 +110,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PseudoDevs/PseudoDevs/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
