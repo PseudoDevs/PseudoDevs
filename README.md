@@ -49,13 +49,29 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,jquery,kali,kotlin,mysql,git,github,gitlab,cs,bun,cloudflare,discord,discordjs,django,dotnet,py,alpinejs,npm,react,visualstudio,vscode,wordpress,androidstudio,laravel,nodejs,express,vue,nuxt,svelte,flutter,git,mysql,figma,vscode&perline=9" />
 </p>
-
-<!-- GitHub Trophies -->
-<h3 align="center">GitHub Trophies</h3>
+<!-- Featured Projects Showcase -->
+<h3 align="center">Featured Projects</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PseudoDevs&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
+  <a href="https://github.com/PseudoDevs/PHPAuditLogger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PseudoDevs&repo=PHPAuditLogger&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 1"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PseudoDevs/PHPSecryption">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PseudoDevs&repo=PHPSecryption&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 2"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/PseudoDevs/ChartInPHP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PseudoDevs&repo=ChartInPHP&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 3"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PseudoDevs/HighLightPHP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PseudoDevs&repo=HighLightPHP&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 4"/>
+  </a>
+</p>
+
 
 <!-- GitHub Stats -->
 <h3 align="center">GitHub Stats</h3>
@@ -64,15 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PseudoDevs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoDevs&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PseudoDevs&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/PseudoDevs/count.svg" alt="Visitor Count"/>
 </p>
 
 ---
