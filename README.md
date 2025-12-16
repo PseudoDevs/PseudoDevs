@@ -2,6 +2,11 @@
 
 ###
 
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/iampseudox">
+    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="John Lester Legaspi's Dev Card" align="right"/>
+</a>
+
 <br clear="both">
 
 <div align="center">
